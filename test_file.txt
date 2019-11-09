@@ -1,2 +1,3 @@
 Initial line to commit
 add second line to the initial file to demonstrate the change
+add third line to make sencond change
